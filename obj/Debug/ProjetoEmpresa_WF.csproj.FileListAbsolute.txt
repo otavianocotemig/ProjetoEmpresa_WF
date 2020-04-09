@@ -1,0 +1,13 @@
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\bin\Debug\ProjetoEmpresa_WF.exe.config
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\bin\Debug\ProjetoEmpresa_WF.exe
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\bin\Debug\ProjetoEmpresa_WF.pdb
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.csprojAssemblyReference.cache
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.FrmPrincipal.resources
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.FrmAssalariado.resources
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.FrmComissionado.resources
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.FrmHorista.resources
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.Properties.Resources.resources
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.csproj.GenerateResource.cache
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.csproj.CoreCompileInputs.cache
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.exe
+C:\COTEMIG\Poo\ProjetoEmpresa_WF\ProjetoEmpresa_WF\obj\Debug\ProjetoEmpresa_WF.pdb
